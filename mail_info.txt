@@ -1,0 +1,13 @@
+
+
+helo noor.com
+mail FROM:<gavindu@gmail.com>
+rcpt TO:<nalisha@yahoo.com>
+data 
+hi,how are you
+
+gavindu.
+
+.
+
+quit 
